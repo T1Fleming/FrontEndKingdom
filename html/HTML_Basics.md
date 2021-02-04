@@ -23,4 +23,4 @@
 
 ## Elements Explained
 
-- Doctype defines 
+- Doctype defines that document is an HTML 5 Doc
