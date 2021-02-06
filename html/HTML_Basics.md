@@ -24,3 +24,5 @@
 ## Elements Explained
 
 - Doctype defines that document is an HTML 5 Doc (There are elements specifics to html 5)
+
+- File extensions are .html and .htm
