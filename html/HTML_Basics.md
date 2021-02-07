@@ -26,3 +26,5 @@
 - Doctype defines that document is an HTML 5 Doc (There are elements specifics to html 5)
 
 - File extensions are .html and .htm
+
+- HTML was made by the World Wide Web Consortium (W3C)
