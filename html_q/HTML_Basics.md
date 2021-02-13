@@ -1,7 +1,6 @@
 # Problem Sheet
 
 ## The Basics
----
 <details>
 <summary>Explain what HTML is</summary> 
 
