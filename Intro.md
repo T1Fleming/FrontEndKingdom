@@ -12,5 +12,5 @@ A summary of how I prioritize my approach
 
 1) Examples / Questions / Answers
 2) Cheatsheets
-3) Infographics / Visual Representaions 
+3) Infographics / Visual Representaions / Maps
 4) Notes
