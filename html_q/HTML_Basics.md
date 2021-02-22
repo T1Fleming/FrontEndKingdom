@@ -19,7 +19,7 @@ Describe the format of an html element
 </summary> 
 
 ```
-<tag option1="value" option2="value"> Content </(close) tag>
+<tagname option1="value" option2="value"> Content </(close) tagname>
 ```
 </details>
 <!-- END -->
