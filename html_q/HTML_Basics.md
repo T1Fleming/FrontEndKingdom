@@ -4,7 +4,7 @@
 
 <table style="width:100%">
 <tr>
-<th>Problem</th>
+<th>Problem  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
 <th>Solution</th>
 </tr>
 <!-- START -->
