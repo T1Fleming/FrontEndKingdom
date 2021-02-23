@@ -1,14 +1,18 @@
-# Problem Sheet
+<center> 
+<h1> HTML - Problem Sheet </h1>
+</center> 
 
-## The Basics
+## Introductions
 <!-- START -->
 <details>
 <summary>
 Give a high level explanation of HTML
 </summary> 
 
+```
 - HTML stands for Hyper Text Markup Language
 - Language of Browser, tells browser how content should be rendered
+```
 </details>
 <!-- END -->
 
@@ -61,10 +65,12 @@ Explain each element (tag) of this html page along with the doctype
 <!-- START -->
 <details>
 <summary>
-What is the file format(s) of a webpage?
+Give the file format(s) of a webpage
 </summary> 
 
+```
 .html and .htm with the only difference being in the name
+```
 </details>
 <!-- END -->
 
@@ -90,6 +96,69 @@ Give an example of an html image tag
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 ```
 </details>
+<!-- END -->
+
+## HTML Basics
+<!-- START -->
+<details>
+<summary>
+Describe the different headers
+</summary> 
+
+```
+h1 - h6
+```
+</details>
+<!-- END -->
+
+<!-- START -->
+<details>
+<summary>
+Describe Nesting
+</summary> 
+
+```
+HTML elements can contain other html elements, which is refered to as nesting
+```
+</details>
+<!-- END -->
+
+<!-- START -->
+<details>
+<summary>
+Name caveats of the endtag
+</summary> 
+
+```
+The end tag can be implied, although this is not best practice. Instead, you should always close tags
+```
+</details>
+
+<!-- START -->
+<details>
+<summary>
+Describe empty HTML elements
+</summary> 
+
+Elements without content are empty elements. Examples are
+```
+<br>
+```
+</details>
+
+<!-- START -->
+<details>
+<summary>
+Describe case sensitivity of HTML
+</summary> 
+
+```
+HTML elements are not case sensitive, but W3C recommends lower case in html and demands lowercase for stricter doctypes
+```
+</details>
+<!-- END -->
+
+<!-- END -->
 <!-- END -->
 
 ## Dev Format
