@@ -7,9 +7,11 @@
 <th>Problem </th>
 <th>Solution</th>
 </tr>
-<!-- START -->
+
+<!-- =======================START======================= -->
 <tr>
 <td>
+<!-- Title -->
 Give a high level explanation of HTML
 </td>
 <td>
@@ -18,6 +20,7 @@ Give a high level explanation of HTML
 Solution
 </summary> 
 
+<!-- Answer -->
 ```
 - HTML stands for Hyper Text Markup Language
 - Language of Browser, tells browser how content should be rendered
@@ -25,9 +28,9 @@ Solution
 </details>
 </td>
 </tr>
-<!-- END -->
+<!-- =======================END========================= -->
 
-<!-- START -->
+<!-- =======================START======================= -->
 <tr>
 <td>
 Describe the format of an html element
@@ -44,7 +47,7 @@ Solution
 </details>
 </td>
 </tr>
-<!-- END -->
+<!-- =======================END========================= -->
 
 <!-- START -->
 <tr>
