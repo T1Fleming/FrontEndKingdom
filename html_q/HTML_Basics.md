@@ -2,6 +2,94 @@
 <h1> HTML - Problem Sheet </h1>
 </center> 
 
+<table style="width:100%">
+<tr>
+<th>Problem</th>
+<th>Solution</th>
+</tr>
+<!-- START -->
+<tr>
+<td>
+Give a high level explanation of HTML
+</td>
+<td>
+<details>
+<summary>
+Solution
+</summary> 
+
+```
+- HTML stands for Hyper Text Markup Language
+- Language of Browser, tells browser how content should be rendered
+```
+</details>
+</td>
+</tr>
+<!-- END -->
+
+<!-- START -->
+<tr>
+<td>
+Describe the format of an html element
+</td>
+<td>
+<details>
+<summary>
+Solution
+</summary> 
+
+```
+<tagname option1="value" option2="value"> Content </(close) tagname>
+```
+</details>
+</td>
+</tr>
+<!-- END -->
+
+<!-- START -->
+<tr>
+<td>
+Explain each element (tag) of this html page along with the doctype
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<meta name="hostname" content="gist.github.com">
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+</td>
+<td>
+<details>
+<summary>
+Solution
+</summary> 
+
+```
+- Doctype defines that document is an HTML 5 Doc (There are elements specifics to html 5)
+- The <html> element is the root element of an HTML page
+- The <head> element contains meta information about the HTML page
+- The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+- The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+- The <h1> element defines a large heading
+- The <p> element defines a paragraph
+```
+</details>
+</td>
+</tr>
+<!-- END -->
+
+
+</table>
+
 ## Introductions
 <!-- START -->
 <details>
