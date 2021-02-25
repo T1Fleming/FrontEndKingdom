@@ -246,6 +246,47 @@ HTML elements are not case sensitive, but W3C recommends lower case in html and 
 </td>
 </tr>
 <!-- =======================END========================= -->
+
+<!-- =======================START======================= -->
+<tr>
+<td>
+Define the root of an html element
+</td>
+<td>
+<details>
+<summary>
+Solution
+</summary> 
+
+```
+<html>
+```
+</details>
+</td>
+</tr>
+<!-- =======================END========================= -->
+
+<!-- =======================START======================= -->
+<tr>
+<td>
+Describe HTML attributes
+</td>
+<td>
+<details>
+<summary>
+Solution
+</summary> 
+
+```
+- All HTML elements can have attributes
+- Attributes provide additional information about elements
+- Attributes are always specified in the start tag
+- Attributes usually come in name/value pairs like: name="value"
+```
+</details>
+</td>
+</tr>
+<!-- =======================END========================= -->
 </table>
 
 ## Dev Format
