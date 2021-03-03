@@ -1,2 +1,2 @@
 # FrontEndKingdom
-Notes for the frontend 
+Notes for the frontend. Attempting cornell style notes
