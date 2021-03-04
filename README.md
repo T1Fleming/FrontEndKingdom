@@ -1,2 +1,2 @@
 # FrontEndKingdom
-Notes for the frontend 
+Notes for the frontend. Refining
