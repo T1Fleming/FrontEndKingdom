@@ -149,8 +149,11 @@ Solution
 </table>
 
 ## HTML Basics
-
-<table>
+<table  style="width:100%">
+<tr>
+<th>Problem </th>
+<th>Solution</th>
+</tr>
 <!-- =======================START======================= -->
 <tr>
 <td>
